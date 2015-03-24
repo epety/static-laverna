@@ -1,10 +1,8 @@
-Builded and minified version of Laverna app
+Build Desktop app for Laverna Markdown Notes
 ==============
 
-If you don't want (or can't) to build Laverna app yourself, you can easily grab it from this repository.
-
-### With command
+First check latest minified version of Larverna
 
 ```
   git clone -b gh-pages https://github.com/Laverna/static-laverna
-```
+``
